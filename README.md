@@ -1,1 +1,1 @@
-# Restaurant-Search-app-usin-React-Native
+# Restaurant-Search-app-using-React-Native
